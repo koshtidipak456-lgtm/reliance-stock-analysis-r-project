@@ -32,7 +32,8 @@ The system generates professional financial charts, forecasting models, and trad
 - PerformanceAnalytics
 - lubridate
 
-📚 What I Learned From This Project
+📚 What I Learned From This Project:
+
 💡 Basic Skills Learned
 Learned basic R Programming concepts
 Learned how to collect stock market data using Yahoo Finance API
@@ -49,5 +50,7 @@ Learned how to use AI tools to understand, write, and run R code more efficientl
 Improved understanding of stock market data analysis using R Programming
 
 📊 Conclusion:
+
 This project successfully demonstrated how financial data analysis and algorithmic trading techniques can be implemented using R Programming and real-world stock market data of Reliance Industries Limited. The project covered the complete workflow starting from financial data acquisition and preprocessing to advanced visualization, time series forecasting, and trading strategy backtesting.
+
 By analyzing 10 years of historical stock data, the project provided meaningful insights into stock price behavior, market volatility, seasonal trends, and investment performance. Multiple technical indicators and trading strategies such as SMA Crossover, RSI, MACD, and Bollinger Bands were implemented to evaluate trading opportunities and compare strategy performance against the traditional buy-and-hold approach.
