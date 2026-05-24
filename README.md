@@ -1,4 +1,4 @@
-📈** Reliance Industries Stock Market Analysis & Algorithmic Trading using R**
+📈 **Reliance Industries Stock Market Analysis & Algorithmic Trading using R**
 
 🚀 Project Overview:
 This project is a complete financial analytics and quantitative trading system developed using R programming. It performs stock market analysis, forecasting, visualization, and algorithmic trading strategy evaluation for Reliance Industries Limited (RELIANCE.NS).
